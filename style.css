@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: black;
+    position: sticky;
+    top: 0;
+}
+.navbar input{
+    margin-left: 660px;
+    width: 300px;
+}
+.navbar button{
+    margin-left: 10px;
+}
+.row3{
+    background-color: black;
+}
+.cards{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+.buttontrending{
+    display: flex;
+    justify-content: center;
+}
+.row4{
+    background-color: black;
+}
+.col2{
+    display: flex;
+    justify-content: space-between;
+}
+.col2 img:hover{
+    scale: 1.1;
+    transition: 0.5s ease-in-out;
+    box-shadow:1px 2px 3px rgb(255, 254, 254);
+    cursor: pointer;
+}
+.row5{
+    background-color: black;
+}
+.heading p{
+    text-align: center;
+    color: white;
+    font-size:large;
+}
+.footer{
+    background-color: black;
+}
+/* premium.html */
+.rowcard{
+    background-color: black;
+}
+.plancards{
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+/* movies.html */
+.row4-2{
+    background-color: black;
+}
+
